@@ -1,0 +1,13 @@
+docker build -t custom-hive-metastore:4.0.1 .  
+docker build -t custom-hive-metastore:4.0.1 --progress=plain  -f 3.Dockerfile .  
+
+docker run --rm -it --name custom-hive-metastore -p 9083:9083 --network="host" --mount source=warehouse,target=/opt/hive/data/warehouse  custom-hive-metastore:4.0.1 ls /opt/hive/lib/
+
+docker run --rm --name custom-hive-metastore -it -d -p 9083:9083 -e POSTGRESQL_URL="jdbc:postgresql://custom-host:5432/custom_db" -e POSTGRESQL_USER="custom_user" -e POSTGRESQL_PASSWORD="CustomPassword123" --mount source=warehouse,target=/opt/hive/data/warehouse  --name metastore-custom custom-hive-metastore:4.0.1
+
+docker run --rm --name custom-hive-metastore -it -d -p 9083:9083 --network="host" -e POSTGRESQL_URL="jdbc:postgresql://localhost:5432/custom_db" -e POSTGRESQL_USER="postgres" -e POSTGRESQL_PASSWORD="Password@0" --mount source=warehouse,target=/opt/hive/data/warehouse  --name metastore-custom custom-hive-metastore:4.0.1
+
+docker run --rm --name custom-hive-metastore -it -p 9083:9083 --network="host" -e POSTGRESQL_URL="jdbc:postgresql://localhost:5432/custom_db" -e POSTGRESQL_USER="postgres" -e POSTGRESQL_PASSWORD="Password@0" --mount source=warehouse,target=/opt/hive/data/warehouse  --name metastore-custom custom-hive-metastore:4.0.1 ls /opt/hive/lib/
+
+Below is the working one with 3.Dockerfile
+docker run --rm --name custom-hive-metastore -d -p 9083:9083 --network="host" -e METASTORE_DB_URL=jdbc:postgresql://localhost:5432/custom_db -e METASTORE_DB_USER=postgres -e METASTORE_DB_PASSWORD=Password@0 --mount source=warehouse,target=/opt/hive/data/warehouse custom-hive-metastore:4.0.1 
