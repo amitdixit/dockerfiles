@@ -1,0 +1,119 @@
+name: elastic-cluster-multi-node
+services:
+  es01:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.17.1
+    container_name: es01
+    environment:
+      - node.name=es01
+      - cluster.name=my-cluster
+      - discovery.seed_hosts=es02,es03
+      - cluster.initial_master_nodes=es01,es02,es03
+      - node.roles=master,data
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+      # - ELASTIC_PASSWORD=Changeme@123
+    command: >
+      bash -c "bin/elasticsearch-plugin install analysis-phonetic && elasticsearch"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - es01-data:/usr/share/elasticsearch/data
+    networks:
+      - elastic
+    ports:
+      - "9201:9200"
+
+  es02:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.17.1
+    container_name: es02
+    environment:
+      - node.name=es02
+      - cluster.name=my-cluster
+      - discovery.seed_hosts=es01,es03
+      - cluster.initial_master_nodes=es01,es02,es03
+      - node.roles=master,data
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+    command: >
+      bash -c "bin/elasticsearch-plugin install analysis-phonetic && elasticsearch"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - es02-data:/usr/share/elasticsearch/data
+    networks:
+      - elastic
+    ports:
+      - "9202:9200"
+
+  es03:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.17.1
+    container_name: es03
+    environment:
+      - node.name=es03
+      - cluster.name=my-cluster
+      - discovery.seed_hosts=es01,es02
+      - cluster.initial_master_nodes=es01,es02,es03
+      - node.roles=master,data
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+    command: >
+      bash -c "bin/elasticsearch-plugin install analysis-phonetic && elasticsearch"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - es03-data:/usr/share/elasticsearch/data
+    networks:
+      - elastic
+    ports:
+      - "9203:9200"
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.17.1
+    container_name: kibana
+    depends_on:
+      - es01
+      - es02
+      - es03
+    environment:
+      - ELASTICSEARCH_HOSTS=["http://es01:9200","http://es02:9200","http://es03:9200"]
+      # - ELASTICSEARCH_USERNAME=elastic
+      # - ELASTICSEARCH_PASSWORD=Changeme@123
+    networks:
+      - elastic
+    ports:
+      - "5601:5601"
+  
+  metricbeat:
+    image: docker.elastic.co/beats/metricbeat:8.17.1
+    container_name: metricbeat
+    depends_on:
+      - es01
+      - es02
+      - es03
+    environment:
+      - ELASTICSEARCH_HOSTS=["http://es01:9200","http://es02:9200","http://es03:9200"]
+      - setup.kibana.host=http://kibana:5601
+      # - ELASTICSEARCH_USERNAME=elastic
+      # - ELASTICSEARCH_PASSWORD=Changeme@123
+    networks:
+      - elastic
+    ports:
+      - "5066:5066"
+
+volumes:
+  es01-data:
+  es02-data:
+  es03-data:
+
+networks:
+  elastic:
+    driver: bridge

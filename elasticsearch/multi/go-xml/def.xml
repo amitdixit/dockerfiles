@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd'
+    dateGenerated='2025-02-08T00:00:10.194Z'>
+    <INDIVIDUALS>
+        <INDIVIDUAL>
+            <DATAID>110447</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MUHAMMAD</FIRST_NAME>
+            <SECOND_NAME>TAHER</SECOND_NAME>
+            <THIRD_NAME>ANWARI</THIRD_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.005</REFERENCE_NUMBER>
+            <LISTED_ON>2001-02-23</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>محمد طاهر أنوري</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Belongs to Andar tribe. Review pursuant to Security Council resolution
+                1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special
+                Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Mullah</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>a) Director of Administrative Affairs under the Taliban
+                    regime</VALUE>
+                <VALUE>Minister of Finance under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2007-07-09</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2011-11-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohammad Taher Anwari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammad Tahir Anwari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohammad Tahre Anwari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Haji Mudir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1961</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Zurmat District</CITY>
+                <STATE_PROVINCE>Paktia Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>110554</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABDUL LATIF</FIRST_NAME>
+            <SECOND_NAME>MANSUR</SECOND_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.007</REFERENCE_NUMBER>
+            <LISTED_ON>2001-01-31</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>عبد اللطيف منصور </NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Taliban Shadow Governor for Logar Province as of late 2012. Believed to
+                be in Afghanistan/Pakistan border area. Belongs to Sahak tribe (Ghilzai). Review
+                pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
+                2010. INTERPOL-UN Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Maulavi</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Minister of Agriculture under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2007-07-18</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2012-02-13</VALUE>
+                <VALUE>2012-05-18</VALUE>
+                <VALUE>2013-04-22</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Latif Mansoor</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Wali Mohammad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1968</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Zurmat District</CITY>
+                <STATE_PROVINCE>Paktia Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>110578</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABDUL KABIR</FIRST_NAME>
+            <SECOND_NAME>MOHAMMAD JAN</SECOND_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.003</REFERENCE_NUMBER>
+            <LISTED_ON>2001-01-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>عبد الکبیر محمد جان</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Active in terrorist operations in Eastern Afghanistan. Collects money
+                from drug traffickers. Believed to be in Afghanistan/Pakistan border area. Member of
+                the
+                Taliban Supreme Council as at 2009. Family is originally from Neka District, Paktia
+                Province, Afghanistan. Responsible for attack on Afghan parliamentarians in November
+                2007 in Baghlan; owns land in central Baghlan Province. Belongs to Zadran tribe.
+                Review
+                pursuant to Security Council resolution 1822 (2008) was concluded on 23 Jul.
+                2010. INTERPOL-UN Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Maulavi</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Second Deputy, Economic Affairs, Council of Ministers under the Taliban
+                    regime</VALUE>
+                <VALUE>Governor of Nangarhar Province under the Taliban regime</VALUE>
+                <VALUE>Head of Eastern Zone under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2005-12-20</VALUE>
+                <VALUE>2007-07-18</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2012-02-13</VALUE>
+                <VALUE>2012-08-13</VALUE>
+                <VALUE>2013-12-31</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>A. Kabir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1963</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Pul-e-Khumri or Baghlan Jadid District</CITY>
+                <STATE_PROVINCE>Baghlan Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111041</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABDUL RAUF</FIRST_NAME>
+            <SECOND_NAME>KHADEM</SECOND_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.025</REFERENCE_NUMBER>
+            <LISTED_ON>2001-02-23</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>عبدالروف خادم</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Member of the Taliban Quetta Shura as at 2009. Taliban member responsible
+                for Uruzgan Province, Afghanistan, as at 2011. Review pursuant to Security Council
+                resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council
+                Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Mullah</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Commander of Central Corps under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2012-02-13</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mullah Abdul Rauf Aliza</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+                <DATE_OF_BIRTH>1970</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+                <FROM_YEAR>1958</FROM_YEAR>
+                <TO_YEAR>1963</TO_YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Azan village, Kajaki District</CITY>
+                <STATE_PROVINCE>Helmand Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+
+        <INDIVIDUAL>
+            <DATAID>113222</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>YASSIN</FIRST_NAME>
+            <SECOND_NAME>SYAWAL</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.123</REFERENCE_NUMBER>
+            <LISTED_ON>2003-09-09</LISTED_ON>
+            <COMMENTS1>At large as at Dec. 2003. Review pursuant to Security Council resolution
+                1822 (2008) was concluded on 25 May 2010. Review pursuant to Security Council
+                resolution 2253 (2015) was concluded on 21 February 2019. Review pursuant to
+                Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+                INTERPOL-UN Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Indonesia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2014-12-12</VALUE>
+                <VALUE>2019-03-29</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2022-11-08</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Salim Yasin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Yasin Mahmud Mochtar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Hadi Yasin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhamad Mubarok</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammad Syawal</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Yassin Sywal</ALIAS_NAME>
+                <NOTE>formerly listed as</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Seta</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mahmud</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Muamar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mubarok</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1962-09-03</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Makassar</CITY>
+                <COUNTRY>Indonesia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+
+        <INDIVIDUAL>
+            <DATAID>2830919</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>REDOUANE</FIRST_NAME>
+            <SECOND_NAME>EL HABHAB</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.262</REFERENCE_NUMBER>
+            <LISTED_ON>2008-11-12</LISTED_ON>
+            <COMMENTS1>Released from custody in Germany in Apr. 2012. Review pursuant to Security
+                Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN
+                Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Germany</VALUE>
+                <VALUE>Morocco</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2009-01-30</VALUE>
+                <VALUE>2009-03-24</VALUE>
+                <VALUE>2012-11-15</VALUE>
+                <VALUE>2021-11-15</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdelrahman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>lltisstrasse 58</STREET>
+                <CITY>24143 Kiel</CITY>
+                <COUNTRY>Germany</COUNTRY>
+                <NOTE>previous address</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-12-20</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Casablanca</CITY>
+                <COUNTRY>Morocco</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>1005552350</NUMBER>
+                <ISSUING_COUNTRY>Germany</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2001-03-27</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE>Municipality of Kiel</CITY_OF_ISSUE>
+                <COUNTRY_OF_ISSUE>Germany</COUNTRY_OF_ISSUE>
+                <NOTE>expired on 26 Mar. 2011</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>federal identity card number</TYPE_OF_DOCUMENT2>
+                <NUMBER>1007850441</NUMBER>
+                <ISSUING_COUNTRY>Germany</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2001-03-27</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE> Municipality of Kiel</CITY_OF_ISSUE>
+                <COUNTRY_OF_ISSUE>Germany</COUNTRY_OF_ISSUE>
+                <NOTE>expired on 26 Mar. 2011</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+
+        <INDIVIDUAL>
+            <DATAID>2832887</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ZAKI-UR-REHMAN</FIRST_NAME>
+            <SECOND_NAME>LAKHVI</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.264</REFERENCE_NUMBER>
+            <LISTED_ON>2008-12-10</LISTED_ON>
+            <COMMENTS1>Chief of operations of Lashkar-e-Tayyiba (listed under permanent
+                reference number QDe.118). Review pursuant to Security Council resolution 2253
+                (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution
+                2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special
+                Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Pakistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2022-11-08</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Zakir Rehman Lakvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Zaki Ur-Rehman Lakvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Kaki Ur-Rehman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Zakir Rehman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Waheed Irshad Ahmad Arshad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Chachajee</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Barahkoh, P.O. DO</STREET>
+                <STATE_PROVINCE>Tehsil and District Islamabad</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+                <NOTE>location as at May 2008</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Chak No. 18/IL, Rinala Khurd</STREET>
+                <CITY>Tehsil Rinala Khurd</CITY>
+                <STATE_PROVINCE>District Okara</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+                <NOTE>previous location</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1960-12-30</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Okara</CITY>
+                <COUNTRY>Pakistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>61101-9618232-1</NUMBER>
+                <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+
+        <INDIVIDUAL>
+            <DATAID>2758288</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MERAI</FIRST_NAME>
+            <SECOND_NAME>ABDEFATTAH</SECOND_NAME>
+            <THIRD_NAME>KHALIL</THIRD_NAME>
+            <FOURTH_NAME>ZOGHBI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.223</REFERENCE_NUMBER>
+            <LISTED_ON>2006-08-02</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>مرعي عبدفتاح خليل زغبي</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Considered a fugitive from justice by the Italian authorities and sentenced
+                in absentia to 6 years imprisonment on 20 Nov. 2008. Member of Libyan Islamic
+                Fighting Group (QDe.011). Mother’s name is Wanisa Abdessalam. Review pursuant to
+                Security Council resolution 1822 (2008) was concluded on 20 Jul. 2009. Review
+                pursuant to Security Council resolution 2368 (2017) was concluded on 24 November
+                2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8
+                November 2022. INTERPOL-UN Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2009-06-03</VALUE>
+                <VALUE>2009-09-01</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2017-03-21</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2022-11-08</VALUE>
+                <VALUE>2023-06-02</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>F’raji di Singapore</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>F’raji il Libico</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohamed Lebachir</ALIAS_NAME>
+                <DATE_OF_BIRTH>1968-01-14</DATE_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Morocco</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Meri Albdelfattah Zgbye</ALIAS_NAME>
+                <DATE_OF_BIRTH>1960-06-04</DATE_OF_BIRTH>
+                <CITY_OF_BIRTH>Bendasi</CITY_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Libya</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Zoghbai Merai Abdul Fattah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Lazrag Faraj</ALIAS_NAME>
+                <DATE_OF_BIRTH>1960-11-13</DATE_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Libya</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Larzg Ben Ila</ALIAS_NAME>
+                <DATE_OF_BIRTH>1960-08-11</DATE_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Libya</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Farag</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Fredj</ALIAS_NAME>
+                <DATE_OF_BIRTH>1960-11-13</DATE_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Libya</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammed El Besir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Merai Zoghbai</ALIAS_NAME>
+                <NOTE>previously listed as, in Arabic: مرعي زغبي</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+                <DATE_OF_BIRTH>1960-04-04</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+                <DATE_OF_BIRTH>1960-06-04</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY />
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-04-04</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Bengasi</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT />
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </INDIVIDUAL>
+    </INDIVIDUALS>
+
+    <ENTITIES>
+        <ENTITY>
+            <DATAID>113226</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AFGHAN SUPPORT COMMITTEE (ASC)</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.069</REFERENCE_NUMBER>
+            <LISTED_ON>2002-01-11</LISTED_ON>
+            <COMMENTS1>Associated with the Revival of Islamic Heritage Society (QDe.070). Abu Bakr
+                al-Jaziri (QDi.058) served as finance chief of ASC. Review pursuant to Security
+                Council resolution 1822 (2008) was concluded on 8 Jun. 2010. Review pursuant to
+                Security Council resolution 2368 (2017) was concluded on 15 November 2021.
+                INTERPOL-UN Security Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2021-11-15</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Lajnat ul Masa Eidatul Afghania</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Jamiat Ayat-ur-Rhas al Islamiac</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Jamiat Ihya ul Turath al Islamia</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Ahya ul Turas</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>Headquarters – G.T. Road (probably Grand Trunk Road), near Pushtoon Garhi
+                    Pabbi</STREET>
+                <CITY> Peshawar</CITY>
+                <COUNTRY>Pakistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>Cheprahar Hadda, Mia Omar Sabaqah School</STREET>
+                <CITY>Jalabad</CITY>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113227</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AL-AKHTAR TRUST INTERNATIONAL</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.121</REFERENCE_NUMBER>
+            <LISTED_ON>2005-08-17</LISTED_ON>
+            <COMMENTS1>Regional offices in Pakistan: Bahawalpur, Bawalnagar, Gilgit, Islamabad,
+                Mirpur Khas, Tando-Jan-Muhammad. Akhtarabad Medical Camp is in Spin Boldak,
+                Afghanistan.
+                Registered by members of Jaish-i-Mohammed (QDe.019). Associated with Harakat
+                ul-Mujahidin/ HUM (QDe.008), Lashkar I Jhanghvi (LJ) (QDe.096) and Lashkar-e-Tayyiba
+                (QDe.118). Banned in Pakistan. Review pursuant to Security Council resolution 1822
+                (2008) was concluded on 14 Sep. 2009. Review pursuant to Security Council resolution
+                2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council
+                resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security
+                Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2008-12-10</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2022-11-08</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Akhtar Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Akhtar Medical Centre</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Akhtarabad Medical Camp</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Pakistan Relief Foundation</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Pakistani Relief Foundation</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Azmat-e-Pakistan Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Azmat Pakistan Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>ST-1/A, Gulsahn-e-Iqbal, Block 2</STREET>
+                <CITY>Karachi</CITY>
+                <ZIP_CODE>25300</ZIP_CODE>
+                <COUNTRY>Pakistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>Gulistan-e-Jauhar, Block 12</STREET>
+                <CITY>Karachi</CITY>
+                <COUNTRY>Pakistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113232</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AL-HARAMAIN &amp; AL MASJED AL-AQSA CHARITY FOUNDATION</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.109</REFERENCE_NUMBER>
+            <LISTED_ON>2004-06-28</LISTED_ON>
+            <COMMENTS1>Reportedly defunct. Used to be officially registered in Bosnia and
+                Herzegovina under registry number 24. Al-Haramain &amp; Al Masjed Al-Aqsa Charity
+                Foundation ceased its work by decision of the Ministry of Justice of the Bosnia and
+                Herzegovina Federation (decision on cessation of operation number 03-05-2-203/04).
+                It was no longer in existence as of Dec. 2008. Its premises and humanitarian
+                activities were transferred under Government supervision to a new entity called
+                Sretna Buducnost. Review pursuant to Security Council resolution 1822 (2008) was
+                concluded on 22 Jun. 2010. Review pursuant to Security Council resolution 2368
+                (2017) was concluded on 24 November 2020. Review pursuant to Security Council
+                resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security
+                Council Special Notice web
+                link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2004-11-26</VALUE>
+                <VALUE>2008-09-16</VALUE>
+                <VALUE>2009-03-24</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2022-11-08</VALUE>
+                <VALUE>2023-02-02</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Haramain Al Masjed Al Aqsa</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Haramayn Al Masjid Al Aqsa</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Haramayn and Al Masjid Al Aqsa Charitable Foundation</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Harammein Al Masjed Al-Aqsa Charity Foundation</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>Branch Address: 2A Hasiba Brankovica</STREET>
+                <CITY>Sarajevo</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>14 Bihacka Street</STREET>
+                <CITY>Sarajevo</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>64 Potur mahala Street</STREET>
+                <CITY>Travnik</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <CITY>Zenica</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113233</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AL-HARAMAIN: ETHIOPIA BRANCH</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.113</REFERENCE_NUMBER>
+            <LISTED_ON>2004-07-06</LISTED_ON>
+            <COMMENTS1>Review pursuant to Security Council resolution 1822 (2008) was concluded
+                on 22 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was
+                concluded on 24 November 2020. Review pursuant to Security Council resolution 2610
+                (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice
+                web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2012-03-21</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2022-11-08</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY />
+                <ALIAS_NAME />
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <CITY>Woreda District 24 Kebele Section 13</CITY>
+                <STATE_PROVINCE>Addis Ababa</STATE_PROVINCE>
+                <COUNTRY>Ethiopia</COUNTRY>
+                <NOTE>at time of listing</NOTE>
+            </ENTITY_ADDRESS>
+            <SORT_KEY />
+            <SORT_KEY_LAST_MOD />
+        </ENTITY>
+    </ENTITIES>
+</CONSOLIDATED_LIST>
